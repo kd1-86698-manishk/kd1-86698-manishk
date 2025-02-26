@@ -3,11 +3,11 @@
 - 🌱 I’m currently learning PG-DAC
 - 📫 How to reach me manishkarne1967@gmail.com
 - -My websites
--Portfolio
+Portfolio
 - https://portfolio-manish-chi.vercel.app/
-- Tasty Coffee
+Tasty Coffee
 - https://tasty-coffee-react.vercel.app/
-- Swiggy Clone
+Swiggy Clone
 - https://swiggy-clone-frontend-vei7.onrender.com/
 
 <!---
